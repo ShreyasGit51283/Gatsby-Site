@@ -111,6 +111,15 @@ const Inspiration = () => {
                     </a>
                 </li>
 
+                <li className={writingStyles.post}>
+                    <a href="https://pjrvs.com/" target="_blank" style={{ textDecoration: "none" }}><h3>
+                        Paul Jarvis
+                        </h3>
+                        <p>Author of the sustainable business lifestyle book Startup to last, and one of the pioneers of building a small
+                            profitable business.</p>
+                    </a>
+                </li>
+
 
             </ol>
 
