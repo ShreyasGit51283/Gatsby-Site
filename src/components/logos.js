@@ -3,8 +3,8 @@ import Salesforce from '../logos/salesforce.png'
 import Adobe from '../logos/adobe.png'
 import Gensler from '../logos/gensler.gif'
 import Grey from '../logos/grey.png'
-import Gabi from '../logos/gabi.png'
-import Yoactiv from '../logos/yoactiv.png'
+import Gabi from '../logos/Gabi.png'
+import Yoactiv from '../logos/Yoactiv.png'
 
 
 
