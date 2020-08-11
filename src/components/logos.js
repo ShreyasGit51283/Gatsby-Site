@@ -4,7 +4,7 @@ import Adobe from '../logos/adobe.png'
 import Gensler from '../logos/gensler.gif'
 import Grey from '../logos/grey.png'
 import Gabi from '../logos/Gabi.png'
-import Yoactiv from '../logos/Yoactiv.png'
+import YoActiv from '../logos/YoActiv.png'
 
 
 
@@ -18,7 +18,7 @@ const Logos = () => {
        <a href="https://www.adobe.com/" target="_blank"  style={{textDecoration:"none"}}> <img width="40" src = {Adobe} alt="salesforce"/></a>
        <a href="https://www.grey.com/" target="_blank"  style={{textDecoration:"none"}}> <img width="80" src = {Grey} alt="salesforce"/></a>
        <a href="http://studiostereogram.com/" target="_blank"  style={{textDecoration:"none"}}> <img width="90" src = {Gabi} alt="salesforce"/></a>
-       <a href="https://www.yoactiv.com/" target="_blank"  style={{textDecoration:"none"}}> <img width="100" src = {Yoactiv} alt="salesforce"/></a>
+       <a href="https://www.yoactiv.com/" target="_blank"  style={{textDecoration:"none"}}> <img width="100" src = {YoActiv} alt="salesforce"/></a>
     </div>
 
 
