@@ -115,7 +115,7 @@ const Inspiration = () => {
                     <a href="https://pjrvs.com/" target="_blank" style={{ textDecoration: "none" }}><h3>
                         Paul Jarvis
                         </h3>
-                        <p>Author of the sustainable business lifestyle book Startup to last, and one of the pioneers of building a small
+                        <p>Author of the sustainable business lifestyle book <strong>Company of One</strong>, and one of the pioneers of building a small
                             profitable business.</p>
                     </a>
                 </li>
