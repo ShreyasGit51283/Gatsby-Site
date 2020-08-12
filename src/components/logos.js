@@ -21,7 +21,7 @@ const Logos = () => {
        <a href="https://www.gensler.com/" target="_blank"  style={{textDecoration:"none"}}> <img width="80" src = {gensler} alt="gensler"/></a>
        <a href="http://studiostereogram.com/" target="_blank"  style={{textDecoration:"none"}}> <img width="90" src = {Gabi} alt="studio stereogram"/></a>
        <a href="https://www.yoactiv.com/" target="_blank"  style={{textDecoration:"none"}}> <img width="100" src = {Yoactiv} alt="yoactiv"/></a>
-       <a href="https://www.lacrm.com/" target="_blank"  style={{textDecoration:"none"}}> <img width="100" src = {lacrm} alt="lacrm"/></a>
+       <a href="https://www.lessannoyingcrm.com/" target="_blank"  style={{textDecoration:"none"}}> <img width="100" src = {lacrm} alt="lacrm"/></a>
     </div>
 
 
