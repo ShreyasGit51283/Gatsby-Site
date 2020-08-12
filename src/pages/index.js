@@ -41,7 +41,7 @@ const IndexPage = () => {
         Hi there, I'm  {data.site.siteMetadata.title}.
       </h2>
       <p>
-        Currently designing the future of data management products at Rubik.
+        Currently designing the future of data management products.
         I started my career in animation, drew comic books, worked in advertising and now do experience design. I like to keep learning and building things. Constraints make things interesting. Simple is elegant. I prefer working towards an outcome and not output.
       </p>
 
