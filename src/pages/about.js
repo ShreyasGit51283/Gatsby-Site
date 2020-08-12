@@ -1,6 +1,7 @@
 import React from "react"
 import Layout from '../components/layout'
 import Head from '../components/head'
+import blockquote from './blockquote.module.scss'
 
 
 
@@ -18,9 +19,9 @@ const About = () => {
                 I am not a big fan of labels. I just make sure I have the skills required to get the job done, and done well. I am an avid fan of horror films and Doctor Who. As a TYPE B personality, I am heavily influenced by the philosophies of Bill Watterson and Jason Fried. I yearn for a simple life well lived, that lets me be available for the people I care about.
             </p>
 
-            <div className="blockquote"> 
-                Bonus Fact
-                <p>I started one of Bangalore's first <a href="https://www.instagram.com/lifedrawingbangalore/?hl=en">life drawing groups. </a>
+            <div className={blockquote.blockquote}> 
+                <strong>Bonus Fact</strong>
+                <p>I started one of Bangalore's first <a href="https://www.instagram.com/lifedrawingbangalore/?hl=en" target="_blank" style={{textDecoration:"none"}}>life drawing groups. </a>
                 It’s now been taken to the next level by Prathiksha Bhat, Felix Jackson and Rahul Phillip.
                 </p>
             </div>
