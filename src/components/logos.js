@@ -5,7 +5,7 @@ import gensler from '../logos/gensler.gif'
 import Grey from '../logos/grey.png'
 import Gabi from '../logos/Gabi.png'
 import Yoactiv from '../logos/Yoactiv.png'
-import lacrm from '../logos/lacrm.png'
+import Lacrm from '../logos/Lacrm.png'
 
 
 
@@ -21,7 +21,7 @@ const Logos = () => {
        <a href="https://www.gensler.com/" target="_blank"  style={{textDecoration:"none"}}> <img width="80" src = {gensler} alt="gensler"/></a>
        <a href="http://studiostereogram.com/" target="_blank"  style={{textDecoration:"none"}}> <img width="90" src = {Gabi} alt="studio stereogram"/></a>
        <a href="https://www.yoactiv.com/" target="_blank"  style={{textDecoration:"none"}}> <img width="100" src = {Yoactiv} alt="yoactiv"/></a>
-       <a href="https://www.lessannoyingcrm.com/" target="_blank"  style={{textDecoration:"none"}}> <img width="100" src = {lacrm} alt="lacrm"/></a>
+       <a href="https://www.lessannoyingcrm.com/" target="_blank"  style={{textDecoration:"none"}}> <img width="100" src = {Lacrm} alt="Lacrm"/></a>
     </div>
 
 
