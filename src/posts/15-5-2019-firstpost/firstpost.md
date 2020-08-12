@@ -4,13 +4,16 @@ date: "15 Jun 2019"
 synopsis: "The most important part was to stop comparing to trends and focus on what mattered"
 
 ---
-
+## Update
+I've since moved my site to the react framework Gatsby. Remember, I like to keep building things. The takeaways from the exercise of building version one of this site still apply though.
 
 
 *" Between the idea And the reality  
 Between the motion And the act  
 Falls the Shadow"  
 T.S Elliot*
+
+
 
 Honestly, skill wise I'd been ready to build my own website months before I actually built it. But I kept sabotaging myself by looking at the portfolio sites of other designers. The intention was to collect inspiration, motivation and ideas for this site, but the actual result was completely the opposite. Having decided early on to code the site myself, I realized that I would need more developer expertise to achieve that slick trendy personal site I thought I needed. Comparison is the death of joy Mark Twain said. It has a worse effect on creator motivation. At the time I felt it better to park the project completely.
 
@@ -51,6 +54,5 @@ So now the site's up. And I believe it accomplishes what I set out to do. But th
 - <a href="https://learntocodewith.me/tutorials/github-pages/" target="_blank"> The Tutorial </a>I used to set up static pages and configure my domain name.
 - Github pages
 
-## Update
-I've since moved the site to react framework Gatsby. Remeber I like to keep building things. The takeaways from the exercise of building the version one of the site still apply though.
+
 
