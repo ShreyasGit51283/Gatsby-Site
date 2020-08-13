@@ -52,5 +52,5 @@ So now the site's up. And I believe it accomplishes what I set out to do. But th
 - Github pages
 
 ## Update
-I've since moved the site to react framework Gatsby. Remeber I like to keep building things. The takeaways from the exercise of building the version one of the site still apply though.
+I've since moved my site to react framework Gatsby. (Remember I like to keep building things) The takeaways from the exercise of building the first version of this site still very much apply though
 
