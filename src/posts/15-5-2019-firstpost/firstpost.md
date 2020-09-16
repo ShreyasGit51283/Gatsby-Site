@@ -58,5 +58,6 @@ So now the site's up. And I believe it accomplishes what I set out to do. But th
 - <a href="https://learntocodewith.me/tutorials/github-pages/" target="_blank"> The Tutorial </a>I used to set up static pages and configure my domain name.
 - Github pages
 
-
+## Update
+I've since moved my site to react framework Gatsby. (Remember I like to keep building things) The takeaways from the exercise of building the first version of this site still very much apply though
 
