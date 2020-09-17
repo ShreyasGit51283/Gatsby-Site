@@ -1,6 +1,6 @@
 ---
 title: "Jumping from a corporate to a startup"
-date: "17 Sep 2020"
+date: "September 17 2020"
 synopsis: " How to start loving ppt design, even though you're a product designer"
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: "How I finally built my own website"
-date: "15 Jun 2019"
+date: "June 15 2019"
 synopsis: "The most important part was to stop comparing to trends and focus on what mattered"
 
 ---
