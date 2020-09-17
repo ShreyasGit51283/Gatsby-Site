@@ -1,5 +1,5 @@
 ---
-title: "How to Hire UX Designer"
+title: "How to hire UX designers"
 date: "26 Jul 2020"
 synopsis: "AKA I failed every take home UX test."
 
