@@ -4,13 +4,9 @@ date: "June 15 2019"
 synopsis: "The most important part was to stop comparing to trends and focus on what mattered"
 
 ---
---------------
 
-> ###### Update
->
-> I've since moved my site to the react framework Gatsby. Remember, I like to keep building things. The takeaways from the exercise of building version one of this site still apply though.
 
---------------
+
 
 *" Between the idea And the reality  
 Between the motion And the act  
