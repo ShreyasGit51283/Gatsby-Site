@@ -19,9 +19,10 @@ const Logos = () => {
          
          <Container className="logos mt-5 mb-5" fluid="xs" > 
             <Row>
-               <Col xs ={4}  class="mx-auto">
-                  <a href="https://www.salesforce.com" target="_blank" style={{ textDecoration: "none" }}> <Image width="60" src={Salesforce} alt="salesforce" fluid /></a>
-               </Col >
+               <Col xs ={4} className="mx-auto ">
+                  <a href="https://www.salesforce.com" target="_blank" style={{ textDecoration: "none" }}> <Image width="60" src={Salesforce} alt="salesforce" fluid/></a>   
+               </Col>
+
                <Col xs ={4} className="mx-auto ">
                   <a href="https://www.adobe.com/" target="_blank" style={{ textDecoration: "none" }}> <Image width="30" src={Adobe} alt="adobe" fluid/></a>
                </Col>

@@ -1,6 +1,6 @@
 import React from "react"
-import { Link, graphql, useStaticQuery } from 'gatsby'
 import 'bootstrap/dist/css/bootstrap.min.css'
+import { Link, graphql, useStaticQuery } from 'gatsby'
 import Layout from '../components/layout'
 import Logos from '../components/logos'
 import headerStyles from '../components/header.module.scss'
