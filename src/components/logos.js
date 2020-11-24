@@ -1,4 +1,6 @@
 import React from "react"
+import './logos.scss'
+import { Container, Row, Col, Image } from 'react-bootstrap'
 import Salesforce from '../logos/salesforce.png'
 import Adobe from '../logos/adobe.png'
 import gensler from '../logos/gensler.gif'
@@ -11,21 +13,46 @@ import Lacrm from '../logos/Lacrm.png'
 
 const Logos = () => {
 
-  
-    return (
-    <div>
-       <p>The awesome people and places, I’ve worked for.</p>
-       <a href="https://www.salesforce.com" target="_blank"  style={{textDecoration:"none"}}> <img width="80" src = {Salesforce} alt="salesforce"/></a>
-       <a href="https://www.adobe.com/" target="_blank"  style={{textDecoration:"none"}}> <img width="40" src = {Adobe} alt="adobe"/></a>
-       <a href="https://www.grey.com/" target="_blank"  style={{textDecoration:"none"}}> <img width="80" src = {Grey} alt="grey"/></a>
-       <a href="https://www.gensler.com/" target="_blank"  style={{textDecoration:"none"}}> <img width="80" src = {gensler} alt="gensler"/></a>
-       <a href="http://studiostereogram.com/" target="_blank"  style={{textDecoration:"none"}}> <img width="90" src = {Gabi} alt="studio stereogram"/></a>
-       <a href="https://www.yoactiv.com/" target="_blank"  style={{textDecoration:"none"}}> <img width="100" src = {Yoactiv} alt="yoactiv"/></a>
-       <a href="https://www.lessannoyingcrm.com/" target="_blank"  style={{textDecoration:"none"}}> <img width="100" src = {Lacrm} alt="Lacrm"/></a>
-    </div>
+
+   return (
+      <div>
+         
+         <Container className="logos mt-5 mb-5" fluid="xs" > 
+            <Row>
+               <Col xs ={4}  class="mx-auto">
+                  <a href="https://www.salesforce.com" target="_blank" style={{ textDecoration: "none" }}> <Image width="60" src={Salesforce} alt="salesforce" fluid /></a>
+               </Col >
+               <Col xs ={4} className="mx-auto ">
+                  <a href="https://www.adobe.com/" target="_blank" style={{ textDecoration: "none" }}> <Image width="30" src={Adobe} alt="adobe" fluid/></a>
+               </Col>
+               <Col xs ={4} className="mx-auto">
+                  <a href="https://www.grey.com/" target="_blank" style={{ textDecoration: "none" }}> <Image width="60" src={Grey} alt="grey" fluid/></a>
+               </Col>
+            </Row>
+
+            <Row>
+                 <Col xs ={4} className="mx-auto">
+                  <a href="https://www.gensler.com/" target="_blank" style={{ textDecoration: "none" }}> <Image width="80" src={gensler} alt="gensler" fluid/></a>
+               </Col>
+               <Col xs ={4} className="mx-auto" >
+                  <a href="http://studiostereogram.com/" target="_blank" style={{ textDecoration: "none" }}> <Image width="80" src={Gabi} alt="studio stereogram" fluid/></a>
+               </Col>
+               <Col xs ={4} className="mx-auto">
+                  <a href="https://www.yoactiv.com/" target="_blank" style={{ textDecoration: "none" }}> <Image width="100" src={Yoactiv} alt="yoactiv" fluid/></a>
+               </Col>
+            </Row>
+
+            <Row>
+            <Col xs ={6} className="mx-auto">  <a href="https://www.lessannoyingcrm.com/" target="_blank" style={{ textDecoration: "none" }}> <Image width="60" src={Lacrm} alt="Lacrm" fluid/></a>
+            </Col>
+            <Col xs ={6} className="mt-auto">  
+            </Col>
+            </Row>
+         </Container>
+      </div>
 
 
-    )
-  }
-  
-  export default Logos
+   )
+}
+
+export default Logos

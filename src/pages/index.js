@@ -1,5 +1,6 @@
 import React from "react"
 import { Link, graphql, useStaticQuery } from 'gatsby'
+import 'bootstrap/dist/css/bootstrap.min.css'
 import Layout from '../components/layout'
 import Logos from '../components/logos'
 import headerStyles from '../components/header.module.scss'
@@ -43,7 +44,9 @@ const IndexPage = () => {
       <p>
         Currently designing the future of data management products.
         I started my career in animation, drew comic books, worked in advertising and now do experience design. I like to keep learning and building things. Constraints make things interesting. Simple is elegant. I prefer working towards an outcome and not output.
+        The awesome people and places, I’ve worked for.
       </p>
+     
 
       <div>
         <Logos/>
