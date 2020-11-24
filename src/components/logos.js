@@ -1,6 +1,6 @@
 import React from "react"
-import './logos.scss'
 import { Container, Row, Col, Image } from 'react-bootstrap'
+import './logos.scss'
 import Salesforce from '../logos/salesforce.png'
 import Adobe from '../logos/adobe.png'
 import gensler from '../logos/gensler.gif'
