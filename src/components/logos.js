@@ -15,9 +15,9 @@ const Logos = () => {
 
 
    return (
-      <div>
+      <div >
          
-         <Container className="logos mt-5 mb-5" fluid="xs" > 
+         <Container className="logos mt-5 mb-5" fluid="s" > 
             <Row>
                <Col xs ={4} className="mx-auto ">
                   <a href="https://www.salesforce.com" target="_blank" style={{ textDecoration: "none" }}> <Image width="60" src={Salesforce} alt="salesforce" fluid/></a>   

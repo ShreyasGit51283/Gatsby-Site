@@ -9,6 +9,7 @@ siteMetadata: {
   title: 'Shreyas Deshpande',
   author: 'Shreyas Deshpande',
   email: 'shreydeshpande@gmail.com',
+  nickname: 'Shreyas'
 },
 
 

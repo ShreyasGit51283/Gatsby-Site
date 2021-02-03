@@ -20,7 +20,8 @@ const IndexPage = () => {
     query {
       site{
         siteMetadata
-      {title
+      {title,
+        nickname
       }
     }
     }
@@ -39,7 +40,7 @@ const IndexPage = () => {
 
       
       <h2>
-        Hi there, I'm  {data.site.siteMetadata.title}.
+        Hi there, I'm  {data.site.siteMetadata.nickname}.{console.log(data.site.siteMetadata)}
       </h2>
       <p>
         Currently designing the future of data management products.
